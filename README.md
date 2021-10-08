@@ -1,0 +1,1 @@
+This is a simple CORS proxy intended for personal use. It's not fancy, but it gets the job done.
